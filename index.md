@@ -11,8 +11,11 @@
 - [AI 思考](ai-thoughts.md)
 
 ## 繪畫作品
-![示範畫作](painting1.png)
-![另一幅畫](painting2.png)
+![示範畫作](painting1.jpg)
+![另一幅畫](painting2.jpg)
+![第三幅畫](painting3.jpg)
+![第四幅畫](painting4.jpg)
+
 
 ---
 
